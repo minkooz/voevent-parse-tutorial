@@ -107,7 +107,7 @@ v.What is v.What[0]
 # In[ ]:
 
 for par in v.What.Group.Param:
-    print par.Description
+    print(par.Description)
 
 
 # Or we can check the length, access elements by index, etc:

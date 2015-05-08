@@ -25,7 +25,7 @@ conference, but should be accessible to anyone familiar with Python.
 
 ##Running the code
 Run IPython Notebook from this directory and load up the notebooks. 
-Or, if you prefer a traditional (I)Python terminal, you can read through the 
+Or, if you prefer a regular (I)Python terminal, you can read through the 
 ``.py`` versions and copy-paste the code snippets as you go along.
 
 ##Ready-made versions

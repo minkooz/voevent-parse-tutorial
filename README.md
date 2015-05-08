@@ -18,7 +18,7 @@ hands-on session at the
 conference, but should be accessible to anyone familiar with Python.
 
 ##Requirements
-* [voevent-parse](http://voevent-parse.readthedocs.org/en/master/intro.html#installation)
+* [voevent-parse](http://voevent-parse.readthedocs.org/en/latest/intro.html#installation)
 * [IPython](http://ipython.org/install.html) 
   (IPython [notebook](http://ipython.org/notebook.html) strongly recommended, 
   but not essential.)

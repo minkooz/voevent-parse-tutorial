@@ -1,3 +1,12 @@
+# 301 Moved Permanently
+
+These tutorials have now been integrated into the [voevent-parse documentation](http://voevent-parse.readthedocs.io/en/latest/tutorial/index.html). Source notebooks can be found [here](https://github.com/timstaley/voevent-parse/tree/master/documentation/source/tutorial).
+This repo is preserved solely to avoid breaking external links.
+
+Old content follows...
+
+------------------------------------------------------------
+
 #Getting started with voevent-parse
 
 This tutorial should get you up and running with 
